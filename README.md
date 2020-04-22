@@ -1,2 +1,4 @@
 # SCOPE-animation-logo
-animation logo made with the help of Blender of SCOPE school
+Animation logo made with the help of Blender of SCOPE school
+
+![Scope](./)
